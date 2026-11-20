@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.pytest_cache/
+*.egg-info/
+
+# Node
+node_modules/
+.next/
+out/
+*.log
+
+# Data (Do not commit 90MB CSVs)
+data/synthetic/*
+data/partitions/*
+!data/synthetic/.gitkeep
+!data/partitions/.gitkeep
+
+# Env & IDE
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+
+# Models & Videos
+*.pt
+*.pth
+*.webm
+*.mp4
+videos/

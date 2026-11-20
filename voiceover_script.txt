@@ -1,0 +1,15 @@
+In Abu Dhabi, cardiovascular disease and diabetes account for a massive portion of mortality, driven by high rates of obesity and physical inactivity.
+
+But hospitals cannot share the data needed to predict these risks... until now.
+
+This is PulseFederate. A federated learning platform that brings the AI model to the data, instead of the data to the model.
+
+Watch as three hospital sites train together. Site A and B are large urban hospitals. Site C is a smaller rural clinic.
+
+Each site trains locally. Raw patient data never leaves the firewall. Only model weights are shared, protected by Differential Privacy.
+
+Accuracy climbs as the federation learns. And notice the fairness score—it stays above ninety-seven percent. The global model does not leave the smaller rural clinic behind.
+
+Finally, the Swagger API proves that every training round is programmatic, auditable, and ready for integration with Abu Dhabi's health systems.
+
+Privacy and progress. Together.
